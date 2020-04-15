@@ -1,7 +1,7 @@
 {
   "name": "uts-web3",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://abdurrahmanjaisy.github.io/utsweb3-15699-AbdurrahmanJaisy",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
